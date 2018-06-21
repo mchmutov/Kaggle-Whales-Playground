@@ -8,4 +8,7 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+# Fast ai library simlink; need a different one on each computer
+fastai
+
 # End of https://www.gitignore.io/api/jupyternotebook
