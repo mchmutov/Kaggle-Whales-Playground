@@ -8,4 +8,10 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+### Fat.ai ###
+
+#Link to fast.ai library
+
+fastai
+
 # End of https://www.gitignore.io/api/jupyternotebook
